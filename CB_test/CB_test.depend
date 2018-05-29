@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527576660 source:c:\users\rd\desktop\cb_test\main.cpp
+	<iostream>
+	<cstdio>
+	<time.h>
+	<cstdlib>
+	<sys/timeb.h>
+
